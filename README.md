@@ -2,7 +2,7 @@
 
 - [융합기술의 효과적 분류를 위한 CPC 특허체계 적합성 검토: 탐색적 접근](https://github.com/dlguswls/MainProject/tree/main/%EC%9C%B5%ED%95%A9%EA%B8%B0%EC%88%A0%EC%9D%98%20%ED%9A%A8%EA%B3%BC%EC%A0%81%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%EC%9C%84%ED%95%9C%20CPC%20%ED%8A%B9%ED%97%88%EC%B2%B4%EA%B3%84%20%EC%A0%81%ED%95%A9%EC%84%B1%20%EA%B2%80%ED%86%A0%20%ED%83%90%EC%83%89%EC%A0%81%20%EC%A0%91%EA%B7%BC(%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8))<br>
   - 졸업논문 및 대한산공학회 포스터 부문 참가
-  - 진행 기간 : 2022.01.20 ~
+  - 진행 기간 : 2022.01.20 ~ 2022.11.22
   - 참여 인원 : 총 3명(팀)
   - Keyword : Python. BERT, XAI, 명사빈도분석, 유사도분석, 토픽모델링, Rule기반분석
   - 내용 요약 :
